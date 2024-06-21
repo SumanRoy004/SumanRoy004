@@ -1,5 +1,5 @@
 - Hi, I’m Suman Roy.
-- I’m currently learning langchain framwork.
+- I’m currently learning langchain framework.
 - ## I made four generative ai applications using langchain framework.
    - #### Groq Search Engine
      https://groq-search-engine-yzarp22wc6mvgce8kraiei.streamlit.app/
