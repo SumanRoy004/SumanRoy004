@@ -12,7 +12,7 @@
  ## 🔗 PROJECTS
    - ### Generative AI applications which I have built using langchain framework..
       - #### Groq Search Engine
-           This is an end to end LLM project based on Groq llama3-8b-8192 model. We are building a Groq Search Engine for searching any question or topic.This system will provide a streamlit based user interface for user and gives the response based on the searched question or topic.
+           This is an end to end LLM project based on Groq(llama3-8b-8192 model). We are building a Groq Search Engine for searching any question or topic.This system will provide a streamlit based user interface for user and gives the response based on the searched question or topic.
 
            [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Groq-Search-Engine.git)
 
@@ -24,14 +24,14 @@
 
            [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://document-app-application-jkkygrfs6ohejxw7ve24rl.streamlit.app/)
       - #### Resume Application Tracking System
-           This is an end to end LLM project based on Groq llama3-8b-8192 model. We are building a Resume Application Tracking System for checking whether your resume is how much eligible for a particular job.This system will provide a streamlit based user interface for user and gives the response based on the job description and also says that your resume is how much eligible for that job and also gives the fields which you will have to work on.
+           This is an end to end LLM project based on Groq(llama3-8b-8192 model). We are building a Resume Application Tracking System for checking whether your resume is how much eligible for a particular job.This system will provide a streamlit based user interface for user and gives the response based on the job description and also says that your resume is how much eligible for that job and also gives the fields which you will have to work on.
 
            [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Resume-Application-Tracking-System.git)
 
            [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://resume-application-tracking-system-6vdy2y8wq2sesc65jzsemc.streamlit.app/)
 
        - #### Health Management Application
-            This is an end to end LLM project based on Google Gemini Pro vision model. We are building a Health management Application for checking whether a food is healthy or unhealthy.This system will provide a streamlit based user interface for user where they can ask the total calories of that food and get answers.
+            This is an end to end LLM project based on Google generative AI(Gemini Pro vision model). We are building a Health management Application for checking whether a food is healthy or unhealthy.This system will provide a streamlit based user interface for user where they can ask the total calories of that food and get answers.
     
           [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Health-Management-Application.git)
 
