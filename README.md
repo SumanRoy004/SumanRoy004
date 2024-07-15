@@ -37,6 +37,13 @@
 
           [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://health-management-application-chnouqptkwwbva8yq3w87m.streamlit.app/)     
 
+        - #### YouTube Transcript Generator
+             This is an end to end LLM project based on Groq(llama3-8b-8192 model). We are building a YouTube Transcript Generator for generating the summary of a youtube video.This system will provide a streamlit based user interface for user and gives the response based on the video details.
+
+           [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/YT-Transcript.git)
+
+           [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://yt-transcript-inviksne2gudwlbxgrmytz.streamlit.app/)     
+
 <!---
 SumanRoy004/SumanRoy004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
