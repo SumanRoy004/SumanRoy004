@@ -14,6 +14,7 @@
      This is an end to end LLM project which I have built using langchain framework based on the LLM models which are:
      - Meta AI(llama3-8b-8192 model)
      - Google(Gemini-1.5-flash model)
+     - Nvidia(nvidia/neva-22b model)
      
      and Vector Embedding model which is:
      - GoogleGenerativeAIEmbeddings(models/embedding-001 model).
@@ -22,7 +23,7 @@
 
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI-Applications.git)
 
-     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-applications-my-app.streamlit.app/)
+     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)]()
       
             
 
