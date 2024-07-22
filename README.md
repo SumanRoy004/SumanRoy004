@@ -11,16 +11,19 @@
 
  ## 🔗 PROJECTS
    - ### GENERATIVE AI APPLICATIONS
-     This is an end to end LLM project which I have built using langchain framework based on the LLM models which are:
-     - Meta AI(llama3-8b-8192 model)
-     - Google(Gemini-1.5-flash model)
-     - Nvidia(nvidia/neva-22b model)
-     
-     and Vector Embedding model which is:
-     - GoogleGenerativeAIEmbeddings(models/embedding-001 model).
-     
      We are building some Generative AI Applications for creating some new contents.This system will provide a streamlit based user interface for user and gives the response to the user.
 
+     Mainly,Generative AI APPLICATIONS is a combination of  7 applications:
+
+     #### 1.	Search Engine
+     #### 2.	Document Q&A APPLICATION
+     #### 3.	Document Summarizer Application
+     #### 4.	Image Detector
+     #### 5.	Resume Application Tracking System
+     #### 6.	You tube Transcript Generator
+     #### 7.	Health Management Application
+     Check the github link given in below to know more about the mechanism of this application.
+     
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI-Applications.git)
 
      [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-applications-my-app.streamlit.app/)
