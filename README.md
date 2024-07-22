@@ -22,11 +22,11 @@
      #### 5.	Resume Application Tracking System
      #### 6.	You tube Transcript Generator
      #### 7.	Health Management Application
-     Check the github link given in below to know more about the mechanism of this application.
+     Click the github link given in below to know more about the mechanism of this application.
      
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI-Applications.git)
 
-     Click the live sreaming link given in below to see the application in live.
+     Click the live streaming link given in below to see the application in live.
      
      [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-applications-my-app.streamlit.app/)
       
