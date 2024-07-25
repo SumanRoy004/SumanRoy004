@@ -18,10 +18,10 @@
      #### 1.	Search Engine
      #### 2.	Document Q&A APPLICATION
      #### 3.	Document Summarizer Application
-     #### 4.	Image Detector
+     #### 4.	Vision Assistant
      #### 5.	Resume Application Tracking System
-     #### 6.	You tube Transcript Generator
-     #### 7.	Health Management Application
+     #### 6.	You tube Transcript Summary Generator
+     #### 7.	Health Assistant
      Click the github link given in below to know more about the mechanism of this application.
      
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/gen-ai.git)
