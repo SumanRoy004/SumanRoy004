@@ -28,7 +28,7 @@
 
      Click the live streaming link given in below to see the application in live.
      
-     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-applications-my-app.streamlit.app/)
+     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://gen-ai-66xsl3e9kwzqupbzfw6c5l.streamlit.app/)
       
             
 
