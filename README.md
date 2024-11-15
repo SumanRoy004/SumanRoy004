@@ -13,7 +13,7 @@
    - ### GENERATIVE AI APPLICATIONS
      We are building some Generative AI Applications for creating some new contents.This system will provide a streamlit based user interface for user and gives the response to the user.
 
-     Mainly,Generative AI APPLICATIONS is a combination of  7 applications:
+     Mainly,We have implemented 7 generative ai applications based on some pre-trained model:
 
      #### 1.	Search Engine
      #### 2.	Document Q&A APPLICATION
