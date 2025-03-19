@@ -8,6 +8,7 @@
    
  ## 🔗 Achievements
  -  GATE CS'24 AIR 509
+ -  GATE CS'25 AIR 125
 
  ## 🔗 PROJECTS
    - ### GENERATIVE AI APPLICATIONS
