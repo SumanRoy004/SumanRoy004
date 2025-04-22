@@ -14,22 +14,23 @@
    - ### GENERATIVE AI APPLICATIONS
      We are building some Generative AI Applications for creating some new contents.This system will provide a streamlit based user interface for user and gives the response to the user.
 
-     Mainly,We have implemented 7 generative ai applications based on some pre-trained model:
+     Mainly,We have implemented some generative ai applications based on some pre-trained models:
 
      #### 1.	Search Engine
-     #### 2.	Document Q&A APPLICATION
-     #### 3.	Document Summarizer Application
-     #### 4.	Vision Assistant
-     #### 5.	Resume Application Tracking System
-     #### 6.	You tube Transcript Summary Generator
-     #### 7.	Health Assistant
+     #### 2. Language and Sentiment Analyzer
+     #### 3.	Document Q&A APPLICATION
+     #### 4.	Document Summarizer Application
+     #### 5.	Vision Assistant
+     #### 6.	Resume Application Tracking System
+     #### 7.	You tube Transcript Summary Generator
+     #### 8.	Health Assistant
      Click the github link given in below to know more about the mechanism of this application.
      
-     [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/gen-ai.git)
+     [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI)
 
      Click the live streaming link given in below to see the application in live.
      
-     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://gen-ai-66xsl3e9kwzqupbzfw6c5l.streamlit.app/)
+     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-dcmmbkcqynzdrjra9h3dfy.streamlit.app/)
       
             
 
