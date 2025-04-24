@@ -28,9 +28,16 @@
      
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI)
 
-     Click the live streaming link given in below to see the application in live.
+     Click the live streaming link given in below to see the application on streamlit web app.
      
-     [![Streamlit app](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-djtdny7kvpwanggwngfcme.streamlit.app/)
+     [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://generative-ai-djtdny7kvpwanggwngfcme.streamlit.app/)
+
+     Click the live streaming link given in below to see the application on render web app.
+
+     [![Render app](https://img.shields.io/badge/Render_app-1DA1F2?style=for-the-badge&logo=Renderapp&logoColor=white)](https://generative-ai-nexj.onrender.com)
+
+
+     
       
             
 
