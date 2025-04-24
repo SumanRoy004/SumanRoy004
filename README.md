@@ -16,7 +16,7 @@
 
      Mainly,We have implemented some generative ai applications based on some pre-trained models:
 
-     #### 1.	Search Engine
+     #### 1.	Conversational Q&A
      #### 2. Language and Sentiment Analyzer
      #### 3.	Document Q&A APPLICATION
      #### 4.	Document Summarizer Application
@@ -30,7 +30,7 @@
 
      Click the live streaming link given in below to see the application in live.
      
-     [![live_streaming](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-dcmmbkcqynzdrjra9h3dfy.streamlit.app/)
+     [![Streamlit app](https://img.shields.io/badge/live_streaming-1DA1F2?style=for-the-badge&logo=live_streaming&logoColor=white)](https://generative-ai-djtdny7kvpwanggwngfcme.streamlit.app/)
       
             
 
