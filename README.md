@@ -24,17 +24,29 @@
      #### 6.	Resume Application Tracking System
      #### 7.	You tube Transcript Summary Generator
      #### 8.	Health Assistant
-     Click the github link given in below to know more about the mechanism of this application.
+     - Framework and Language used: Streamlit, Langchain, Python
+     - Click the github link given in below to know more about the mechanism of this application.
      
-     [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI)
+          [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Generative-AI)
 
-     Click the live streaming link given in below to see the application on streamlit web app.
+     - Click the live streaming link given in below to see the application on streamlit web app.
      
-     [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://generative-ai-djtdny7kvpwanggwngfcme.streamlit.app/)
+          [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://generative-ai-djtdny7kvpwanggwngfcme.streamlit.app/)
 
-     Click the live streaming link given in below to see the application on render web app.
+ - ### Rice Variety Classification
+   - This is a Deep learning app made to classify rice grain consist of 5 classes which are Arborio,Basmati,Ipsala,Jasmine,Karacadag.This system will provide a streamlit based user interface for user and gives the output to the user.
+   - Accuracy of the model is 99%.
+   - Framework and Language used: Streamlit, TensorFlow, Python
+   - Click the github link given in below to know more about the mechanism of this application.
+     
+       [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Rice-image-classification)
 
-     [![Render app](https://img.shields.io/badge/Render_app-1DA1F2?style=for-the-badge&logo=Renderapp&logoColor=white)](https://generative-ai-nexj.onrender.com)
+   - Click the live streaming link given in below to see the application on streamlit web app.
+
+        [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://rice-image-classification-9xlentz2zu2mlwngxgoroo.streamlit.app/)
+
+
+   
 
 
      
