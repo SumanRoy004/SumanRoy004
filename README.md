@@ -43,7 +43,7 @@
 
    - Click the live streaming link given in below to see the application on streamlit web app.
 
-        [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://rice-image-classification-mjrxb65dblbaivu9yhafmv.streamlit.app/)
+        [![Streamlit app](https://img.shields.io/badge/Streamlit_app-1DA1F2?style=for-the-badge&logo=Streamlitapp&logoColor=white)](https://rice-image-classification-efpsawblvhhhxu5entsjq8.streamlit.app/)
 
 
    
