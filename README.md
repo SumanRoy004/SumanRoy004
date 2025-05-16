@@ -1,7 +1,8 @@
  # 🔗 Hi, I'm Suman! 👋
  
  ## 🔗 Connect with me on
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanroy2004/) [![instagram](https://img.shields.io/badge/instagram-1DA1F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/su_man.roy2004/?hl=en)  [![facebook](https://img.shields.io/badge/facebook-1DA1A2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069838520957) 
+ [![Hugging Face](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21F&labelColor=000000&color=000000)](https://huggingface.co/Suman2004) [![LEETCODE](https://img.shields.io/badge/LEETCODE-0A66C2?style=for-the-badge&logo=LEETCODE&logoColor=white)](https://leetcode.com/u/Suman-2004/)
+
  
  ## 🔗 I’m currently working on
  -  langchain framework.
