@@ -47,12 +47,24 @@
 
 
 - ### Multilingual Sentiment and Language Analyzer
-   - This application basically take the any text or paragraph in any language and detect the sentiment of the language in english and also detect the original language type of given text and also gives the english translation of the given text.
+   - This application basically takes the any text or paragraph in any language and detects the sentiment of the language in english and also detects the original language type of given text and also gives the english translation of the given text.
    - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit using a sentiment and translated dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
    - Library and Language used: Gradio,Unsloth,Transformers,Langchain,Python
    - Click the github link given in below to know more about the mechanism of this application.
 
      [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Multilingual-Sentiment-and-Language-Analyzer)
+
+
+- ### Chest X-ray Diagnosis(AI Radiologist)
+   - This application basically takes the x-ray image of chest and classifies it as covid attacked or pneumonia(non-covid) or normal and provides justification based on visual findings.
+   - Here is an finetuned LLM model which is finetuned from the base model unsloth/llama-3.2-11b-vision-instruct-unsloth-bnb-4bit using a covid_chestXray dataset with unsloth library for efficiently finetunning the base model.This finetuned LLM model processes the whole work in the application.
+   - Library and Language used: Gradio,Unsloth,Transformers,Python
+   - Click the github link given in below to know more about the mechanism of this application.
+
+     [![github_link](https://img.shields.io/badge/github_link-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SumanRoy004/Chest-X-ray-Diagnosis)
+
+     
+
 
 
      
